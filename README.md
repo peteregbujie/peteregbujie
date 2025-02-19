@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Peter Egbujie
 - 👀 I’m interested in Javascript - NextJs/React, NodeJS, TypeScript, SQL and TailwindCSS
-- 🌱 I’m currently Backend Development and React Native
+- 🌱 I’m currently learning Backend Development and React Native
 - 💞️ I’m looking to collaborate on frontend web development projects
 - 📫 Checkout my website on [peteregbujie.com](http://peteregbujie.com/). You can reach me on bluesky @peteregbujie.bsky.social
 
